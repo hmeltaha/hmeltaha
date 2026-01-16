@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hala</h1>
 <h3 align="center">Software engineering & cybersecurity student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hmeltaha&label=Profile%20views&color=0e75b6&style=flat" alt="hmeltaha" /> </p>
+
 
 - 📫 How to reach me **hala.meltaha@gmail.com**
 
